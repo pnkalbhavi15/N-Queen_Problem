@@ -1,10 +1,11 @@
-N-Queens Problem Solver
+N-Queens Problem Solver:
 This Python script provides a graphical solution to the classic N-Queens problem using Tkinter for GUI.
 
-Introduction
+
+Introduction:
 The N-Queens problem is a classic problem in chessboard mathematics and computer science. The task is to place N chess queens on an N×N chessboard so that no two queens threaten each other. This means that no two queens should share the same row, column, or diagonal.
 
-Usage
+Usage:
 1. Clone the Repository: Clone this repository to your local machine using git clone.
   git clone https://github.com/pnkalbhavi15/N-Queen_Problem.git
 2. Navigate to the Directory: Enter into the cloned directory.
@@ -16,6 +17,6 @@ Usage
 6. Try Again: If desired, you can try again by clicking "Try again?" in the message box. This will reset the input field for N.
 7. Exit: To exit the program, close the Tkinter window or click "No" when prompted to try again.
 
-Dependencies
+Dependencies:
  - Python 3.x
  - Tkinter (Python GUI library)
