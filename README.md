@@ -6,7 +6,7 @@ The N-Queens problem is a classic problem in chessboard mathematics and computer
 
 Usage
 1. Clone the Repository: Clone this repository to your local machine using git clone.
-  git clone https://github.com/pnkalbhavi/N-Queen_Problem
+  git clone https://github.com/pnkalbhavi15/N-Queen_Problem.git
 2. Navigate to the Directory: Enter into the cloned directory.
   cd n_queens_solver
 3. Run the Script: Execute the Python script using Python 3.x.
